@@ -1,0 +1,91 @@
+{
+  "success": true,
+  "data": {
+    "banner": ["/banner.webp"],
+    "tags": ["现货", "爆款"],
+    "name": "红蜻蜓皮鞋",
+    "price": "10",
+    "itemNo": "test02",
+    "brand": "海贝",
+    "sizes": [
+      {
+        "label": "S",
+        "id": 1
+      },
+      {
+        "label": "M",
+        "id": 2
+      },
+      {
+        "label": "L",
+        "id": 3
+      }
+    ],
+    "colors": [
+      {
+        "label": "红色",
+        "id": 1,
+        "sizes": [
+          {
+            "id": 1,
+            "label": "S",
+            "number": 10
+          },
+          {
+            "id": 2,
+            "label": "M",
+            "number": 2
+          },
+          {
+            "id": 3,
+            "label": "L",
+            "number": 33
+          }
+        ]
+      },
+      {
+        "label": "蓝色",
+        "id": 2,
+        "sizes": [
+          {
+            "id": 1,
+            "label": "S",
+            "number": 10
+          },
+          {
+            "id": 2,
+            "label": "M",
+            "number": 2
+          },
+          {
+            "id": 3,
+            "label": "L",
+            "number": 33
+          }
+        ]
+      },
+      {
+        "label": "黄色",
+        "id": 3,
+        "sizes": [
+          {
+            "id": 1,
+            "label": "S",
+            "number": 10
+          },
+          {
+            "id": 2,
+            "label": "M",
+            "number": 2
+          },
+          {
+            "id": 3,
+            "label": "L",
+            "number": 33
+          }
+        ]
+      }
+    ]
+  },
+  "code": 200
+}
